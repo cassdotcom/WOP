@@ -1,0 +1,13 @@
+﻿<Window x:Class="WOP.WOP_1516"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WOP_1516" Height="353" Width="805">
+    <Grid>
+        <Image Margin="0,10,10,0" HorizontalAlignment="Right" Width="62" Height="37" VerticalAlignment="Top">
+            <Image.Source>
+                <BitmapImage UriSource="file:///c:/users/cass/downloads/sgn_brand_noname.png"/>
+            </Image.Source>
+        </Image>
+        <Label Content="Label" Margin="10,10,77,0" Height="37" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
